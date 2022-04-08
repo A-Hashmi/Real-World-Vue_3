@@ -1,3 +1,3 @@
 # Vue.js 3 
 
-This project is for practicing Vue.js. 
+This project is for practicing Vue.js 3.
